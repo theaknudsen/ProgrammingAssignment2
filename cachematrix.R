@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Creates special list of functions that will be used on the input
 ## x 
 
@@ -49,3 +46,5 @@ cacheSolve <- function(x, ...) {
         # Return inverse
         inv
 }
+
+# this is a comment
